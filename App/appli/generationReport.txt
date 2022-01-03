@@ -1,0 +1,19 @@
+--=( ERRORS )=--
+
+Result Report:
+
+	Operation replaceAll(String, String) is undefined on type null.
+
+
+
+--=( WARNINGS )=--
+
+Result Report:
+
+	Some files were generated more than once during this generation.
+
+Machine model/retval.py : 2 times
+
+
+
+
