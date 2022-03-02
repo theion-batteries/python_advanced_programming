@@ -11,7 +11,7 @@ This diagramm was created with the online tool:  GenMyModel
 
 You find all relevant Data to this Tool inside [GenMyModel](https://app.genmymodel.com/api/dictionary/projects/_cGFRUGyMEeyzq6ra3GZCdA) folder.
 
-below is the uml class diagram  ![representation](GenMyModel\machine_class_diagram.jpg)
+below is the uml class diagram  ![representation](GenMyModel/machine_class_diagram.jpg)
 
 
 You can contribute [here](https://app.genmymodel.com/api/dictionary/projects/_cGFRUGyMEeyzq6ra3GZCdA)
