@@ -97,5 +97,5 @@ the StarUML Software is used to generate python code from uml diagram or reverse
 
 *  code generation: see [generation](UML/generation/) for header files.
 
-   * ![uml](StarUml\ClassDiagram2.jpg)
+   * ![uml](StarUml/ClassDiagram2.jpg)
 
