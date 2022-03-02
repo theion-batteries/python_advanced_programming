@@ -95,12 +95,7 @@ Representation
 
 the StarUML Software is used to generate python code from uml diagram or reverse enginnering to uml:
 
-* 1 - code reverse: see [reverse](UML/reverse/) for header files.
-![uml](UML/reverse/Model.jpg)
+*  code generation: see [generation](UML/generation/) for header files.
 
-    * [link youtube video](https://www.youtube.com/watch?v=vOxfUvgokaU&list=PLlvXsDYdI5UMKq6biezQ-S_T--NUaBgM6&index=3)
-
-* 2 - code generation: see [generation](UML/generation/) for header files.
-
-   * [link youtube video](https://www.youtube.com/watch?v=P-T1Kw78Yh0)
+   * ![uml](StarUml\ClassDiagram2.jpg)
 
